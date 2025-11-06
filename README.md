@@ -1,2 +1,2 @@
 <h1>To-Do_Manager</h1>
-A simple command-line to-do list app built with Python and JSON that lets users add, view, and complete tasks, with automatic saving and loading from a local file.
+A straightforward Python and JSON-based command-line to-do list application that allows users to add, view, and finish tasks while automatically saving and loading from a local file.
